@@ -1,0 +1,26 @@
+.a{
+     color: black;
+     background-color: yellow;
+     text-align: center;
+}
+table,tr,td{
+       width: 1000px;
+       text-align: center;
+    
+}
+.d{
+      color: white;
+      background-color: green;
+}
+.f{
+      color: white;
+      background-color: blue;
+}
+.g{
+      color: white;
+      background-color: red;
+}
+.h{
+      color: white;
+      background-color: black;
+}
